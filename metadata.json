@@ -1,0 +1,6 @@
+{
+  "name": "CES Front-Desk Assistant",
+  "description": "Internal front-desk assistant for Rutgers Career Exploration and Success (CES) student staff, providing direct plain-language answers, verbatim scripts, and SOP lookup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
